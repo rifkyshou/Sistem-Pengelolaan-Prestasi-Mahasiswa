@@ -7,7 +7,7 @@ data = []
 
 while True:
     print("----------------------------------------------------------------------------------")
-    print("         Mwenu Prestasi Mahasiswa     ")
+    print("         Menu Prestasi Mahasiswa     ")
     print("             pilih menu (1-5)           ")
     print("----------------------------------------------------------------------------------")
     print("1. Tambahkan Prestasi Mahasiswa")
@@ -55,4 +55,5 @@ while True:
 
     else:
         print("----------------------------------------------------------------------------------")
+
         print("Pilihan tidak terdapat dimenu, Coba Lagi.")
