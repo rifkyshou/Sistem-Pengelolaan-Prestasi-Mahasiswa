@@ -128,7 +128,8 @@ while True:
 ## Kondisi
 
 ### Kondisi 1
-<img width="402" height="210" alt="image" src="https://github.com/user-attachments/assets/82b97057-6f9b-4aaa-a118-b21f0ec2eb2a" />
+<img width="347" height="203" alt="image" src="https://github.com/user-attachments/assets/f08b8445-93fb-4fc1-880e-7ba9d98d5778" />
+
 
 
 - Fungsi: Menambahkan data prestasi baru ke dalam list data.
@@ -139,45 +140,43 @@ while True:
     4. Tahun lomba
     5. Tingkat lomba
 - Setelah diisi, data disimpan dan muncul pesan konfirmasi.
-<img width="621" height="431" alt="image" src="https://github.com/user-attachments/assets/c57610b0-a04c-46f7-b32c-df9801573d65" />
-
+<img width="637" height="427" alt="image" src="https://github.com/user-attachments/assets/a075902a-542f-499a-bd7f-233f36bcc218" />
 
 Output ini menunjukkan bahwa data prestasi baru berhasil disimpan. Program tidak langsung berhenti, tapi kembali ke menu utama.
 
 ### Kondisi 2
-<img width="347" height="206" alt="image" src="https://github.com/user-attachments/assets/37a1cace-2776-449d-9558-14e4efa0393f" />
+<img width="367" height="201" alt="image" src="https://github.com/user-attachments/assets/e42a5808-79c8-47b3-8990-a03f6ba9b15c" />
 
 Tujuan: Menampilkan semua data prestasi yang sudah tersimpan.
 
 Pada Kondisi ini Memungkinkan Akan Ada Dua Output yang Berbeda
 - JIka `data` Masing Kosong :
-<img width="502" height="302" alt="image" src="https://github.com/user-attachments/assets/f8143ea4-dac1-4cd5-a069-9b7e667785a7" />
+<img width="486" height="293" alt="image" src="https://github.com/user-attachments/assets/f87aaff8-98a0-4862-9979-04a1ca998b59" />
 
 Program mengecek if data == [], karena kosong, ditampilkan pesan bahwa belum ada data prestasi.
 
 - Jika `data` Sudah Diisi Setelah Menambahkan :
-<img width="686" height="297" alt="image" src="https://github.com/user-attachments/assets/c1e7ba1c-83b8-426e-af2e-48e316058b85" />
+<img width="740" height="297" alt="image" src="https://github.com/user-attachments/assets/b7c756c9-04e1-4078-ba0a-303ee155d31d" />
+
 
 Program melakukan looping while n < len(data) untuk menampilkan seluruh data prestasi yang sudah ditambahkan lengkap dengan urutan nomornya.
 
 ### Kondisi 3
 
-<img width="362" height="198" alt="image" src="https://github.com/user-attachments/assets/d7b127fa-295a-4c16-b2cb-a943b44ec9a9" />
+<img width="351" height="207" alt="image" src="https://github.com/user-attachments/assets/8f38d8a3-80b8-40ed-9d41-0045680d5584" />
 
 Tujuan: Mengakhiri program.
 
-
-<img width="372" height="276" alt="image" src="https://github.com/user-attachments/assets/3cf5f21c-fc6f-4311-a3a9-407c94efeefd" />
+<img width="376" height="273" alt="image" src="https://github.com/user-attachments/assets/65799938-a43c-4a93-996f-e1d742faa7b5" />
 
 Setelah menampilkan pesan "Terimakasih Telah Menggunakan Sistem Pengelolaann Prestasi Mahasiswa ", program langsung menghentikan perulangan dengan break, sehingga program selesai berjalan.
 
 ### Kondisi 4
-<img width="358" height="202" alt="image" src="https://github.com/user-attachments/assets/81917f40-f29c-49e8-9e7f-1a732961efbb" />
+<img width="387" height="207" alt="image" src="https://github.com/user-attachments/assets/b37152f0-66f6-4295-9539-6d1849d201e8" />
 
 Tujuan: input yang salah.
 
-
-<img width="392" height="248" alt="image" src="https://github.com/user-attachments/assets/2f73bcbb-cf58-41be-8d08-4b5f8b8b4b68" />
+<img width="392" height="247" alt="image" src="https://github.com/user-attachments/assets/5330844e-cfc9-4490-8e64-077d3304834d" />
 
 Karena input tidak cocok dengan angka 1, 2, atau 3, maka program menampilkan pesan "Pilihan tidak terdapat dimenu, Coba Lagi." dan langsung kembali ke menu utama.
 
