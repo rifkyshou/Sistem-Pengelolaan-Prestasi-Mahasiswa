@@ -169,7 +169,7 @@ Tujuan: Mengakhiri program.
 
 <img width="372" height="276" alt="image" src="https://github.com/user-attachments/assets/3cf5f21c-fc6f-4311-a3a9-407c94efeefd" />
 
-Setelah menampilkan pesan perpisahan, program langsung menghentikan perulangan dengan break, sehingga program selesai berjalan.
+Setelah menampilkan pesan "Terimakasih Telah Menggunakan Sistem Pengelolaann Prestasi Mahasiswa ", program langsung menghentikan perulangan dengan break, sehingga program selesai berjalan.
 
 ### Kondisi 4
 <img width="358" height="202" alt="image" src="https://github.com/user-attachments/assets/81917f40-f29c-49e8-9e7f-1a732961efbb" />
