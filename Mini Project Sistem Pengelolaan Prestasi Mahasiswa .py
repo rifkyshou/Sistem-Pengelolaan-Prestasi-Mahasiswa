@@ -44,7 +44,6 @@ while True:
                 print(f"{n+1}. {a[0]} - {a[1]} - Juara {a[2]} - Tahun {a[3]} - Tingkat {a[4]}")
                 n = n + 1
 
-
     elif daftar == "3" :
         print("----------------------------------------------------------------------------------")
         print("     Terimakasih Telah Menggunakan   ")
@@ -52,9 +51,8 @@ while True:
         print("----------------------------------------------------------------------------------")
         break
 
-
     else:
         print("----------------------------------------------------------------------------------")
-
         print("Pilihan tidak terdapat dimenu, Coba Lagi.")
+
 
