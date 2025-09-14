@@ -160,7 +160,26 @@ Program mengecek if data == [], karena kosong, ditampilkan pesan bahwa belum ada
 
 Program melakukan looping while n < len(data) untuk menampilkan seluruh data prestasi yang sudah ditambahkan lengkap dengan urutan nomornya.
 
+### Kondisi 3
 
+<img width="362" height="198" alt="image" src="https://github.com/user-attachments/assets/d7b127fa-295a-4c16-b2cb-a943b44ec9a9" />
+
+Tujuan: Mengakhiri program.
+
+
+<img width="372" height="276" alt="image" src="https://github.com/user-attachments/assets/3cf5f21c-fc6f-4311-a3a9-407c94efeefd" />
+
+Setelah menampilkan pesan perpisahan, program langsung menghentikan perulangan dengan break, sehingga program selesai berjalan.
+
+### Kondisi 4
+<img width="358" height="202" alt="image" src="https://github.com/user-attachments/assets/81917f40-f29c-49e8-9e7f-1a732961efbb" />
+
+Tujuan: input yang salah.
+
+
+<img width="392" height="248" alt="image" src="https://github.com/user-attachments/assets/2f73bcbb-cf58-41be-8d08-4b5f8b8b4b68" />
+
+Karena input tidak cocok dengan angka 1, 2, atau 3, maka program menampilkan pesan "Pilihan tidak terdapat dimenu, Coba Lagi." dan langsung kembali ke menu utama.
 
 
 
