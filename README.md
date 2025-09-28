@@ -1,4 +1,4 @@
-# Sistem-Pengelolaan-Prestasi-Mahasiswa
+# Sistem-Manajemen-Prestasi-Mahasiswa
 
 ## Identitas
 - **Nama** : Awang Rifky Muhadzib  
